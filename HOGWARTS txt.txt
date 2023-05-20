@@ -6,7 +6,7 @@
  </head>
  
  <body>
-  <img src="C:\Users\Pilares\Downloads\Logo-Hogwarts-500x281.png"/>
+  <img src="Logo-Hogwarts-500x281.png"/>
  </body>
 
 </html>
